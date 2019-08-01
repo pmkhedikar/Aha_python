@@ -1,10 +1,10 @@
-
 def fac(n):
     f = 1
-    for i in range(1,n+1):
-        f = f*i
+    for i in range(1, n + 1):
+        f = f * i
     return f
 
-x=4
-result= fac(x)
-print(result)
+
+
+# result = int(input("Enter value :"))
+# print(fac(result))

@@ -8,7 +8,7 @@ def fib(n):
         print(a)
 
         for i in range(2, n):
-            c = a + b
+            c = a+b
             a = b
             b = c
             print(c)

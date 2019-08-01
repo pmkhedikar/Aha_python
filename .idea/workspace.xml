@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Sample_Dircetory/2_if_else_1.py" line="23" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/2_if_else_1.py" line="24" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/4_break_1.py" line="20" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5578ffa-303d-40c7-83eb-f0177b9489e8" name="Default Changelist" comment="" />
@@ -14,28 +15,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Class_1.py">
+        <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/5_prime_number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Sample_Dircetory/class_3_constructor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="119">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sample_Dircetory/class_2_init.py">
+        <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/6_prime_no_in_range.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/7_factorial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/8_Multiplication.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/9_fibonacciSeries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -55,62 +74,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Sample_Dircetory/operators.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/for_loap.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/function.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/if_else_2.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/if_else.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/if_else_3.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/for_loop_3.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/3_for_loap_2.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/4_break_1.py" />
-        <option value="$PROJECT_DIR$/TestCases/tc1.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/4_decision_making_2.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/5_while_loop_1.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/5_while_loop_2.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/6_list_1.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/6_list_2.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/6_iteration_1.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/6_range_1.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/6_tuples_1.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/6_dictionaries_1.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/1_basic_1.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/Swapping_two_no.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/7_math_library.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/7_char.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/7_function.py" />
         <option value="$PROJECT_DIR$/Sample_Dircetory/7_while.py" />
         <option value="$PROJECT_DIR$/Sample_Dircetory/7_while_2.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/7_break.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/7_break_2.py" />
         <option value="$PROJECT_DIR$/Sample_Dircetory/8_for_else.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/primr_number.py" />
         <option value="$PROJECT_DIR$/Sample_Dircetory/9_Array.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/9_array_2.py" />
         <option value="$PROJECT_DIR$/Sample_Dircetory/10_Numpy_1.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/10_numpy_2.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/11_copying array.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/2_if_else_2.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/4_break_1.py" />
         <option value="$PROJECT_DIR$/Sample_Dircetory/11_Function_1.py" />
         <option value="$PROJECT_DIR$/Sample_Dircetory/11_function_2.py" />
         <option value="$PROJECT_DIR$/Sample_Dircetory/11_function_3.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/fibonacci_series.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/5_factorial.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/6_recursion.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/12_Modules.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/demo.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/demo.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/calk.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/demo2.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/cal2.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/12_dectator_1.py" />
         <option value="$PROJECT_DIR$/Sample_Dircetory/Class_1.py" />
-        <option value="$PROJECT_DIR$/Sample_Dircetory/class_2.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/class_2_init.py" />
         <option value="$PROJECT_DIR$/Sample_Dircetory/class_3_constructor.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/class_4_variables.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/class_5_innerclass.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/class_6_inheritance.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/class_7_ContInher.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/4_fibonacci_series.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/5_factorial.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/Square.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/leap_year.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/printing_integers.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/runner_up.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q1.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q2.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q3.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q4.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q5.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q6.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q7.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q8.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q9.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q10.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Codemonk/1_string_length.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Codemonk/1_loops.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Codemonk/2_list.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Codemonk/3_dictonaries.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Codemonk/set.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Programiz/1checkNumber.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Programiz/odd_even.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Programiz/Leap_year.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Programiz/3_Leap_year.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Programiz/4_Largest_no.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog/3_primr_number.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Programiz/6_prime_no_in_range.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Programiz/5_prime_number.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Programiz/7_factorial.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Programiz/8_Multiplication.py" />
+        <option value="$PROJECT_DIR$/Sample_Dircetory/Programiz/9_fibonacciSeries.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="60" />
-    <option name="width" value="1194" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1189" />
     <option name="height" value="984" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -132,6 +153,12 @@
               <item name="Aha_python" type="462c0819:PsiDirectoryNode" />
               <item name="Sample_Dircetory" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Aha_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aha_python" type="462c0819:PsiDirectoryNode" />
+              <item name="Sample_Dircetory" type="462c0819:PsiDirectoryNode" />
+              <item name="Programiz" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -140,7 +167,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Sample_Dircetory/Logical_prog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ahalife_Web_Automation" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -153,6 +180,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Aha_python\Sample_Dircetory\Telusko" />
       <recent name="D:\Aha_python\Sample_Dircetory" />
       <recent name="D:\Aha_python\Sample_Dircetory\Logical_prog" />
     </key>
@@ -169,7 +197,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.class_2">
+  <component name="RunManager" selected="Python.9_fibonacciSeries">
+    <configuration name="5_prime_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Aha_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample_Dircetory/Programiz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/Programiz/5_prime_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6_prime_no_in_range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Aha_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample_Dircetory/Programiz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/Programiz/6_prime_no_in_range.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="7_break" type="PythonConfigurationType" factoryName="Python">
       <module name="Aha_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,7 +252,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/7_break.py" />
+      <option name="SCRIPT_NAME" value="D:\Aha_python\Sample_Dircetory\Telusko\7_break.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +273,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/7_char.py" />
+      <option name="SCRIPT_NAME" value="D:\Aha_python\Sample_Dircetory\Telusko\7_char.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Class_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aha_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,11 +290,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample_Dircetory" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample_Dircetory/Programiz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/Class_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/Programiz/7_factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +303,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cal2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8_Multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aha_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,11 +311,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample_Dircetory" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample_Dircetory/Programiz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/cal2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/Programiz/8_Multiplication.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +324,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9_fibonacciSeries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aha_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,53 +332,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample_Dircetory" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample_Dircetory/Programiz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Aha_python\Sample_Dircetory\class_2_init.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Aha_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample_Dircetory" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Aha_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample_Dircetory" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/demo2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample_Dircetory/Programiz/9_fibonacciSeries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,11 +368,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.class_2" />
-        <item itemvalue="Python.Class_1" />
-        <item itemvalue="Python.demo2" />
-        <item itemvalue="Python.cal2" />
-        <item itemvalue="Python.demo (1)" />
+        <item itemvalue="Python.9_fibonacciSeries" />
+        <item itemvalue="Python.8_Multiplication" />
+        <item itemvalue="Python.7_factorial" />
+        <item itemvalue="Python.6_prime_no_in_range" />
+        <item itemvalue="Python.5_prime_number" />
       </list>
     </recent_temporary>
   </component>
@@ -371,15 +399,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1220" height="1040" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1230" height="1040" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24450085" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2374161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49915397" visible="true" weight="0.32378855" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49832216" weight="0.32378855" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32929516" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32929516" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5016779" side_tool="true" weight="0.32378855" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32929516" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23773266" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49915397" visible="true" weight="0.32378855" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,137 +437,148 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Sample_Dircetory/7_break_2.py</url>
+          <url>file://$PROJECT_DIR$/Sample_Dircetory/Telusko/7_break_2.py</url>
           <line>1</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Sample_Dircetory/8_for_else.py</url>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/3_primr_number.py</url>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Sample_Dircetory/11_function_3.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/5_factorial.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/Sample_Dircetory/Telusko/7_break.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="344" column="8" selection-start-line="344" selection-start-column="8" selection-end-line="344" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/sample_file.txt" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/7_break_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/2_if_else_2.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/7_char.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="-85">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/tc1.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/7_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/4_break_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/4_decision_making_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/5_while_loop_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/5_while_loop_1.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/7_while.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="22" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/6_dictionaries_1.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/11_Function_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="37" column="15" lean-forward="true" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/11_function_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/11_function_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/12_dectator_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-end-line="14" selection-end-column="19" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/6_range_1.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/2_if_else_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/6_iteration_1.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/Class_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/6_list_2.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/class_2_init.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/6_list_1.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/class_3_constructor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/2_Swapping_two_no.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/class_4_variables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/class_5_innerclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/class_6_inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/class_7_ContInher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Telusko/demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -535,233 +592,223 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/7_char.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/2_if_else_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/3_for_loap_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/7_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/3_for_loap_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/7_while_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/7_break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/7_break_2.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/2_Swapping_two_no.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/7_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/3_primr_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/8_for_else.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/9_Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/9_array_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/10_Numpy_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/11_copying array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/10_numpy_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/11_Function_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/11_function_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/11_function_3.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/4_fibonacci_series.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/1_basic_1.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/6_recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/1_operators.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/Square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/printing_integers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/runner_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/5_factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Codemonk/1_loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Codemonk/2_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Codemonk/3_dictonaries.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/4_fibonacci_series.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Codemonk/set.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="289">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/5_factorial.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Practice_Prog/Q5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/1_checkNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/2_odd_even.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/3_Leap_year.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/leap_year.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/4_Largest_no.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/3_primr_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/5_prime_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/6_prime_no_in_range.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Logical_prog/6_recursion.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/7_factorial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/12_dectator_1.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/8_Multiplication.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="16" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/2_if_else_1.py">
+    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Programiz/9_fibonacciSeries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/cal2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/calk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/class_2_init.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/Class_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample_Dircetory/class_3_constructor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
